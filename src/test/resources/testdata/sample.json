@@ -1,0 +1,11 @@
+{
+  "order": {
+    "orderNumber": "12345",
+    "processed": "2025-06-07T21:47:00",
+    "release": true,
+    "lines": [
+      { "unit": "pcs", "quantity": 10, "itemNumber": "A001" },
+      { "unit": "pcs", "quantity": 5, "itemNumber": "A002" }
+    ]
+  }
+}
