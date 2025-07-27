@@ -22,3 +22,4 @@ This project demonstrates a Java-based framework for transforming JSON using Fre
 http://localhost:8080/swagger-ui/index.html
 - Use sample json which is under resource folder to test from
   above swagger
+  Do it.......
